@@ -1,3 +1,3 @@
-# lemdesk-releases
+# lemgod-releases
 
-Only for lemdesk releases
+Only for lemgod releases
